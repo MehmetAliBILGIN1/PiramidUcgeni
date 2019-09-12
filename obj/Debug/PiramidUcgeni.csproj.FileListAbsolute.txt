@@ -1,0 +1,16 @@
+c:\users\insan\documents\visual studio 2015\Projects\PiramidUcgeni\PiramidUcgeni\bin\Debug\PiramidUcgeni.exe.config
+c:\users\insan\documents\visual studio 2015\Projects\PiramidUcgeni\PiramidUcgeni\bin\Debug\PiramidUcgeni.exe
+c:\users\insan\documents\visual studio 2015\Projects\PiramidUcgeni\PiramidUcgeni\bin\Debug\PiramidUcgeni.pdb
+c:\users\insan\documents\visual studio 2015\Projects\PiramidUcgeni\PiramidUcgeni\obj\Debug\PiramidUcgeni.csprojResolveAssemblyReference.cache
+c:\users\insan\documents\visual studio 2015\Projects\PiramidUcgeni\PiramidUcgeni\obj\Debug\PiramidUcgeni.exe
+c:\users\insan\documents\visual studio 2015\Projects\PiramidUcgeni\PiramidUcgeni\obj\Debug\PiramidUcgeni.pdb
+C:\Users\insan\Desktop\PiramidUcgeni\PiramidUcgeni\bin\Debug\PiramidUcgeni.exe.config
+C:\Users\insan\Desktop\PiramidUcgeni\PiramidUcgeni\obj\Debug\PiramidUcgeni.exe
+C:\Users\insan\Desktop\PiramidUcgeni\PiramidUcgeni\obj\Debug\PiramidUcgeni.pdb
+F:\Projeler\PiramidUcgeni\PiramidUcgeni\bin\Debug\PiramidUcgeni.exe.config
+F:\Projeler\PiramidUcgeni\PiramidUcgeni\bin\Debug\PiramidUcgeni.exe
+F:\Projeler\PiramidUcgeni\PiramidUcgeni\bin\Debug\PiramidUcgeni.pdb
+F:\Projeler\PiramidUcgeni\PiramidUcgeni\obj\Debug\PiramidUcgeni.csprojAssemblyReference.cache
+F:\Projeler\PiramidUcgeni\PiramidUcgeni\obj\Debug\PiramidUcgeni.csproj.CoreCompileInputs.cache
+F:\Projeler\PiramidUcgeni\PiramidUcgeni\obj\Debug\PiramidUcgeni.exe
+F:\Projeler\PiramidUcgeni\PiramidUcgeni\obj\Debug\PiramidUcgeni.pdb
